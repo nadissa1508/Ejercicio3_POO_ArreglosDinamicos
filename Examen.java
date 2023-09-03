@@ -16,9 +16,10 @@ public class Examen {
         this.nota = nota;
     }
 
+    //ver si es necesario
     public Examen(){
         this.curso = "";
-        this.nota = 0;
+        nota = 0;
     }
     
     
